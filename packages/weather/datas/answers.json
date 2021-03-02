@@ -1,0 +1,11 @@
+{
+    "weather": {
+        "weather_received": [
+            "In @city, the weather is @weather"
+        ],
+        "location_not_provided": [
+            "Please provide a location to get the weather !",
+            "You should tell me in which place look the weather."
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "weather": {
+        "get_weather": {
+            "expressions": [
+                "What's the weather like today in @location ?"
+            ],
+            "parameters": [
+                {
+                    "name": "location",
+                    "required": "true",
+                    "type": "spacy.GPE",
+                    "possibles_values": [
+                        "Paris",
+                        "Strasbourg",
+                        "Marseille"
+                    ]
+                }
+            ]
+        }
+    }
+}

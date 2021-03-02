@@ -1,0 +1,14 @@
+{
+    "paths": {
+        "model":"./model/chatbot_model.h5",
+        "intents": "./datas/intents.json",
+        "words": "./datas/words.json",
+        "classes": "./datas/classes.json",
+        "packages": "./packages/",
+        "datas": "./datas/"
+    },
+    "languages": {
+        "english": "en_core_web_sm"
+    },
+    "current_language": "english"
+}

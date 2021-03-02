@@ -1,0 +1,33 @@
+{
+    "einstein": {
+        "hello": {
+            "expressions": [
+                "Hello !",
+                "Hey !",
+                "Hi !",
+                "Glad to see you back, dude !"
+            ],
+            "parameters": []
+        },
+        "feelings": {
+            "expressions": [
+                "How are you ?",
+                "Are you fine ?"
+            ],
+            "parameters": []
+        },
+        "goodbye": {
+            "expressions": [
+                "Bye !",
+                "Bye bye !",
+                "See you later !",
+                "See you soon !",
+                "Talk to you later !",
+                "I'm off !",
+                "Goodbye !",
+                "Goodnight !"
+            ],
+            "parameters": []
+        }
+    }
+}

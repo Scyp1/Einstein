@@ -1,0 +1,866 @@
+[
+    [
+        "What we are going to do on at 2:30 pm ?",
+        {
+            "entities": [
+                [
+                    27,
+                    37,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What we are going to do on the 13th July ?",
+        {
+            "entities": [
+                [
+                    27,
+                    40,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What we are going to do on in April ?",
+        {
+            "entities": [
+                [
+                    27,
+                    35,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What we are going to do on this morning ?",
+        {
+            "entities": [
+                [
+                    27,
+                    39,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What we are going to do on tomorrow ?",
+        {
+            "entities": [
+                [
+                    27,
+                    35,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What we are going to do on yesterday ?",
+        {
+            "entities": [
+                [
+                    27,
+                    36,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What we are going to do on tomorrow afternoon ?",
+        {
+            "entities": [
+                [
+                    27,
+                    45,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What we are going to do on tomorrow morning ?",
+        {
+            "entities": [
+                [
+                    27,
+                    43,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What we are going to do on yesterday afternoon ?",
+        {
+            "entities": [
+                [
+                    27,
+                    46,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What we are going to do on yesterday morning ?",
+        {
+            "entities": [
+                [
+                    27,
+                    44,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What we are going to do on tomorrow at 4:30 PM ?",
+        {
+            "entities": [
+                [
+                    27,
+                    46,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What we are going to do on yesterday at 2:45 PM ?",
+        {
+            "entities": [
+                [
+                    27,
+                    47,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened at 2:30 pm ?",
+        {
+            "entities": [
+                [
+                    14,
+                    24,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened the 13th July ?",
+        {
+            "entities": [
+                [
+                    14,
+                    27,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened in April ?",
+        {
+            "entities": [
+                [
+                    14,
+                    22,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened this morning ?",
+        {
+            "entities": [
+                [
+                    14,
+                    26,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened tomorrow ?",
+        {
+            "entities": [
+                [
+                    14,
+                    22,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened yesterday ?",
+        {
+            "entities": [
+                [
+                    14,
+                    23,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened tomorrow afternoon ?",
+        {
+            "entities": [
+                [
+                    14,
+                    32,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened tomorrow morning ?",
+        {
+            "entities": [
+                [
+                    14,
+                    30,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened yesterday afternoon ?",
+        {
+            "entities": [
+                [
+                    14,
+                    33,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened yesterday morning ?",
+        {
+            "entities": [
+                [
+                    14,
+                    31,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened tomorrow at 4:30 PM ?",
+        {
+            "entities": [
+                [
+                    14,
+                    33,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What happened yesterday at 2:45 PM ?",
+        {
+            "entities": [
+                [
+                    14,
+                    34,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like at 2:30 pm ?",
+        {
+            "entities": [
+                [
+                    24,
+                    34,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like the 13th July ?",
+        {
+            "entities": [
+                [
+                    24,
+                    37,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like in April ?",
+        {
+            "entities": [
+                [
+                    24,
+                    32,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like this morning ?",
+        {
+            "entities": [
+                [
+                    24,
+                    36,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like tomorrow ?",
+        {
+            "entities": [
+                [
+                    24,
+                    32,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like yesterday ?",
+        {
+            "entities": [
+                [
+                    24,
+                    33,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like tomorrow afternoon ?",
+        {
+            "entities": [
+                [
+                    24,
+                    42,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like tomorrow morning ?",
+        {
+            "entities": [
+                [
+                    24,
+                    40,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like yesterday afternoon ?",
+        {
+            "entities": [
+                [
+                    24,
+                    43,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like yesterday morning ?",
+        {
+            "entities": [
+                [
+                    24,
+                    41,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like tomorrow at 4:30 PM ?",
+        {
+            "entities": [
+                [
+                    24,
+                    43,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's the weather like yesterday at 2:45 PM ?",
+        {
+            "entities": [
+                [
+                    24,
+                    44,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is at 2:30 pm.",
+        {
+            "entities": [
+                [
+                    20,
+                    30,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is the 13th July.",
+        {
+            "entities": [
+                [
+                    20,
+                    33,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is in April.",
+        {
+            "entities": [
+                [
+                    20,
+                    28,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is this morning.",
+        {
+            "entities": [
+                [
+                    20,
+                    32,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is tomorrow.",
+        {
+            "entities": [
+                [
+                    20,
+                    28,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is yesterday.",
+        {
+            "entities": [
+                [
+                    20,
+                    29,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is tomorrow afternoon.",
+        {
+            "entities": [
+                [
+                    20,
+                    38,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is tomorrow morning.",
+        {
+            "entities": [
+                [
+                    20,
+                    36,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is yesterday afternoon.",
+        {
+            "entities": [
+                [
+                    20,
+                    39,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is yesterday morning.",
+        {
+            "entities": [
+                [
+                    20,
+                    37,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is tomorrow at 4:30 PM.",
+        {
+            "entities": [
+                [
+                    20,
+                    39,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lambda event is yesterday at 2:45 PM.",
+        {
+            "entities": [
+                [
+                    20,
+                    40,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do at 2:30 pm ?",
+        {
+            "entities": [
+                [
+                    16,
+                    26,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do the 13th July ?",
+        {
+            "entities": [
+                [
+                    16,
+                    29,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do in April ?",
+        {
+            "entities": [
+                [
+                    16,
+                    24,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do this morning ?",
+        {
+            "entities": [
+                [
+                    16,
+                    28,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do tomorrow ?",
+        {
+            "entities": [
+                [
+                    16,
+                    24,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do yesterday ?",
+        {
+            "entities": [
+                [
+                    16,
+                    25,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do tomorrow afternoon ?",
+        {
+            "entities": [
+                [
+                    16,
+                    34,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do tomorrow morning ?",
+        {
+            "entities": [
+                [
+                    16,
+                    32,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do yesterday afternoon ?",
+        {
+            "entities": [
+                [
+                    16,
+                    35,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do yesterday morning ?",
+        {
+            "entities": [
+                [
+                    16,
+                    33,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do tomorrow at 4:30 PM ?",
+        {
+            "entities": [
+                [
+                    16,
+                    35,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What did you do yesterday at 2:45 PM ?",
+        {
+            "entities": [
+                [
+                    16,
+                    36,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do at 2:30 pm ?",
+        {
+            "entities": [
+                [
+                    17,
+                    27,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do the 13th July ?",
+        {
+            "entities": [
+                [
+                    17,
+                    30,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do in April ?",
+        {
+            "entities": [
+                [
+                    17,
+                    25,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do this morning ?",
+        {
+            "entities": [
+                [
+                    17,
+                    29,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do tomorrow ?",
+        {
+            "entities": [
+                [
+                    17,
+                    25,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do yesterday ?",
+        {
+            "entities": [
+                [
+                    17,
+                    26,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do tomorrow afternoon ?",
+        {
+            "entities": [
+                [
+                    17,
+                    35,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do tomorrow morning ?",
+        {
+            "entities": [
+                [
+                    17,
+                    33,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do yesterday afternoon ?",
+        {
+            "entities": [
+                [
+                    17,
+                    36,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do yesterday morning ?",
+        {
+            "entities": [
+                [
+                    17,
+                    34,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do tomorrow at 4:30 PM ?",
+        {
+            "entities": [
+                [
+                    17,
+                    36,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ],
+    [
+        "What you will do yesterday at 2:45 PM ?",
+        {
+            "entities": [
+                [
+                    17,
+                    37,
+                    "sys.date-time"
+                ]
+            ]
+        }
+    ]
+]

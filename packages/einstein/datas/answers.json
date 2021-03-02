@@ -1,0 +1,18 @@
+{
+    "einstein": {
+        "hello": [
+            "Hello !",
+            "Hey !",
+            "Hi !",
+            "What can i do for you ?"
+        ],
+        "feelings": [
+            "I'm fine, and you ?"
+        ],
+        "goodbye": [
+            "Goodbye !",
+            "See you soon !",
+            "Bye !"
+        ]
+    }
+}

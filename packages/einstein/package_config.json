@@ -1,0 +1,16 @@
+{
+    "name": "einstein",
+    "version": "0.0.1",
+    "description": "The basic einstein package",
+    "actions": [
+        "hello - handle when the user say hello",
+        "feelings - handle when the user ask how are the bot"
+    ],
+    "python_datas": {
+        "expressions": "./packages/einstein/datas/expressions.json",
+        "answers": "./packages/einstein/datas/answers.json"
+    },
+    "author": "Scyp1",
+    "license": "ISC"
+  }
+  

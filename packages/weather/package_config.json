@@ -1,0 +1,15 @@
+{
+    "name": "weather",
+    "version": "0.0.1",
+    "description": "With this package, you can ask the weather to the bot",
+    "actions": [
+        "weather - handle when the user ask weather"
+    ],
+    "python_datas": {
+        "api_id": "53cc203174cd4e11c5f10fab872d35ee",
+        "expressions": "./packages/weather/datas/expressions.json",
+        "answers": "./packages/weather/datas/answers.json"
+    },
+    "author": "Scyp1",
+    "license": "ISC"
+  }

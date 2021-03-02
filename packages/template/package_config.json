@@ -1,0 +1,15 @@
+{
+    "name": "[package name]",
+    "version": "[package version]",
+    "description": "[package description]",
+    "actions": [
+        "[action name] - [action description]"
+    ],
+    "python_datas": {
+        "expressions": "path/to/expressions.json/from/einstein main folder/",
+        "answers": "path/to/answers.json/from/einstein main folder/",
+        "other_usefull_variable_for_python_code": "value"
+    },
+    "author": "[author]",
+    "license": "ISC"
+  }

@@ -1,0 +1,21 @@
+{
+    "[package name]": {
+        "[action name]": {
+            "expressions": [
+                "What's the weather like today in @[parameter name] ?"
+            ],
+            "parameters": [
+                {
+                    "name": "[parameter name]",
+                    "required": "[true or false]",
+                    "type": "[parameter type] ex : spacy.GPE or sys.date-time",
+                    "possibles values": [
+                        "[parameter possible value1]",
+                        "[parameter possible value2]",
+                        "[parameter possible value3]"
+                    ]
+                }
+            ]
+        }
+    }
+}

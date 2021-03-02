@@ -1,0 +1,27 @@
+[
+    {
+        "sentences": [
+            "What we are going to do on @entity ?",
+            "What happened @entity ?",
+            "What's the weather like @entity ?",
+            "The lambda event is @entity.",
+            "What did you do @entity ?",
+            "What you will do @entity ?"
+        ],
+        "possibles_values": [
+            "at 2:30 pm",
+            "the 13th July",
+            "in April",
+            "this morning",
+            "tomorrow",
+            "yesterday",
+            "tomorrow afternoon",
+            "tomorrow morning",
+            "yesterday afternoon",
+            "yesterday morning",
+            "tomorrow at 4:30 PM",
+            "yesterday at 2:45 PM"
+        ],
+        "entity_type": "sys.date-time"
+    }
+]

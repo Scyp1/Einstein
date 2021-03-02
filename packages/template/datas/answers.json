@@ -1,0 +1,11 @@
+{
+    "[package name]": {
+        "[answer name1]": [
+            "In @[value to replace], the weather is @[value to replace]"
+        ],
+        "[answer name2]": [
+            "Please provide a location to get the weather !",
+            "You should tell me in which place look the weather."
+        ]
+    }
+}
